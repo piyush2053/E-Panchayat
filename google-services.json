@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "90925934628",
+    "project_id": "epanch-9c1cb",
+    "storage_bucket": "epanch-9c1cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90925934628:android:3070866d6cb7d6042d90b1",
+        "android_client_info": {
+          "package_name": "com.example.e_panchayat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90925934628-53lvaeosaiauok9cpdsnp9l9dsjucong.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_panchayat",
+            "certificate_hash": "542c2418689b253a98a34567482e88e48325908a"
+          }
+        },
+        {
+          "client_id": "90925934628-75sgthl3bpqsig76bteiafllhov0ekl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKuTQDM6SKym_SQC-klxBoelx0ZEdapB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90925934628-75sgthl3bpqsig76bteiafllhov0ekl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
